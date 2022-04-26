@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `git clone https://github.com/ahmedtanveer0411/coding-challenge-ui-circlex.git`
+### `cd coding-challenge-ui-circlex`
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\
